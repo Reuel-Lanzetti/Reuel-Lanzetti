@@ -1,19 +1,18 @@
-<div align="center"> 
+div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7CFC00¢er=true&vCenter=true&random=false&width=400&lines=Faaaaala+dev,+Reuel+Aqui!!!" alt="Typing SVG"> 
-  </a> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight =500&size=22&pause=1000&color=7CFC00¢er=true&vCenter=true&random=false&width=400&lines=Faaaaala+dev,+Reuel+Aqui!!!" alt="Dyping SVG"> </a> 
 </div> 
 
 #
 
 <div>
-    <p align="center"> Meu nome é Reuel, sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software. O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. </p>
+    <p align="center"> Meu nome é Reuel, sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. </p>
 </div>
 
 # 
 
-<div style="display: flex; gap: 2px;">
-  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=Reuel-Lanzetti&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<div style= "display: flex; gap: 2px;">
+  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuel-Lanzetti&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
@@ -60,6 +59,7 @@
   </div>
 </div>
 
+
 #
 
 <picture align="center">
@@ -67,3 +67,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake.svg">
 </picture>
+
+
