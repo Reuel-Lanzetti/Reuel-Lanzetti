@@ -12,8 +12,8 @@ div align="center">
 # 
 
 <div style= "display: flex; gap: 2px;">
-  <img height="182em" height="182em" weitdth= "20em" src="https://github-readme-stats.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="182em" weitdth= "20em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuel-Lanzetti&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="182em" height="182em" weitdth= "40%" src="https://github-readme-stats.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="182em" weitdth= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuel-Lanzetti&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 #
