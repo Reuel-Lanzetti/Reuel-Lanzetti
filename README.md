@@ -29,15 +29,13 @@
   <a href="mailto:matheusalcantara.pereira01@gmail.com">
     <img width="30" src="gmail.png">
   </a>
-  <a href="https://www.linkedin.com/in/matheus-alcantara-b93812234/">
+  <a href="https://www.linkedin.com/in/reuel-lanzetti-b92632312/">
     <img width="25" src="linkedin.webp">
   </a>
   <a href="http://lattes.cnpq.br/7122671646429427">
     <img width="25" src="CNPq.png">
   </a>
-  <a href="https://drive.google.com/drive/my-drive">
-    <img width="25" src="google2.png">
-  </a>
+  
   <a href="https://www.infojobs.com.br/candidate/cv/detail2.aspx">
     <img width="25" src="infojobs.png">
   </a>
