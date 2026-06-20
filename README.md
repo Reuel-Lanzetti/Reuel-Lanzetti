@@ -15,17 +15,6 @@ Sou um programador back-end e escolhi essa área pela beleza sutil que existe na
 
 # 
 
-<div align="center">
-  <h3 align="center" lang="en-US">Skills</h3>
-    <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="40" alt="powerbi-icon" src="powerbi1.png">
-    <img align="center" height="30" width="40" alt="bandeira-icon" src="bandeira.webp">
-    <img align="center" height="40" width="40" alt="pacote-icon" src="pacote.webp">
-    <img align="center" height="40" width="40" alt="python-icon" src="python.png">
-    <img align="center" height="40" width="40" alt="linux-icon" src="Linux.png">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
 ### 🛠 Tecnologias e Habilidades
 Aqui estão algumas das tecnologias com as quais estou trabalhando:
@@ -47,5 +36,11 @@ Vamos nos conectar? Fique à vontade para entrar em contato pelos links abaixo:
 [![E-mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reuellanzetti17@gmail.com)
 
 ---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake.svg">
+</picture>
 📍 Bauru, São Paulo
 
