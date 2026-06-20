@@ -7,54 +7,31 @@
 #
 
 <div>
-    <p align="center"> Meu nome é Reuel, sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. </p>
-</div>
+ # Olá, eu sou o Reuel! 👋
 
-# 
+Estudante de **Ciência da Computação na FIB** (2º ano), focado em aprender e aplicar tecnologias de TI. Atualmente, estou em busca de oportunidades como estagiário na área de **Suporte ou Infraestrutura**.
 
-<div align="center">
-  <h3 align="center" lang="en-US">Skills</h3>
-    <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="40" alt="powerbi-icon" src="powerbi1.png">
-    <img align="center" height="30" width="40" alt="bandeira-icon" src="bandeira.webp">
-    <img align="center" height="40" width="40" alt="pacote-icon" src="pacote.webp">
-    <img align="center" height="40" width="40" alt="python-icon" src="python.png">
-    <img align="center" height="40" width="40" alt="linux-icon" src="Linux.png">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+---
 
+### 🛠 Tecnologias e Habilidades
+Aqui estão algumas das tecnologias com as quais estou trabalhando:
 
-  <h3 align="center" lang="en-US">Networking</h3>
-  <a href="mailto:matheusalcantara.pereira01@gmail.com">
-    <img width="30" src="gmail.png">
-  </a>
-  <a href="https://www.linkedin.com/in/reuel-lanzetti-b92632312/">
-    <img width="25" src="linkedin.webp">
-  </a>
-  <a href="http://lattes.cnpq.br/7122671646429427">
-    <img width="25" src="CNPq.png">
-  </a>
-  
-  <a href="https://www.infojobs.com.br/candidate/cv/detail2.aspx">
-    <img width="25" src="infojobs.png">
-  </a>
-  <a href="https://web.ciee.org.br/estudante/controle-acesso">
-    <img height="25" width="30" src="CIEE1.png">
-  </a>
-  <a href="https://sicoob.empregare.com/pt-br/candidato/curriculo">
-    <img width="25" src="Sicoob.png">
-  </a>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+---
 
-#
+### 🔗 Contato
+Vamos nos conectar? Fique à vontade para entrar em contato pelos links abaixo:
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake.svg">
-</picture>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](LINK_DO_SEU_GITHUB_AQUI)
+
+[![E-mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@exemplo.com)
+
+---
+📍 Bauru, São Paulo
 
