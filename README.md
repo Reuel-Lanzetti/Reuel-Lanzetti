@@ -7,9 +7,9 @@
 #
 
 <div>
- # Olá, eu sou o Reuel! 👋
+ # Olá, eu sou o Reuel! 👋 #
 
-Estudante de **Ciência da Computação na FIB** (2º ano), focado em aprender e aplicar tecnologias de TI. Atualmente, estou em busca de oportunidades como estagiário na área de **Suporte ou Infraestrutura**.
+Meu nome é Reuel, sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante.
 
 ---
 
