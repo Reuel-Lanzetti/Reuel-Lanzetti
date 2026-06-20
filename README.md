@@ -7,9 +7,9 @@
 #
 
 <div>
- # Olá, eu sou o Reuel! 👋 #
+  Olá, eu sou o Reuel! 👋 
 
-Meu nome é Reuel, sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante.
+Sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante.
 
 ---
 
