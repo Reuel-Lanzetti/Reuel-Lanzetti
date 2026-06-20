@@ -1,8 +1,16 @@
-# Olá, eu sou o Reuel! 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7CFC00&center=true&vCenter=true&random=false&width=400&lines=Faaaaala+dev,+Matheus+Aqui!!!" alt="Typing SVG"> 
+  </a> 
+</div>
 
-Estudante de **Ciência da Computação na FIB** (2º ano), focado em aprender e aplicar tecnologias de TI. Atualmente, estou em busca de oportunidades como estagiário na área de **Suporte ou Infraestrutura**.
+#
 
----
+<div>
+    <p align="center"> Meu nome é Matheus, sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. </p>
+</div>
+
+# 
 
 ### 🛠 Tecnologias e Habilidades
 Aqui estão algumas das tecnologias com as quais estou trabalhando:
@@ -17,12 +25,20 @@ Aqui estão algumas das tecnologias com as quais estou trabalhando:
 ### 🔗 Contato
 Vamos nos conectar? Fique à vontade para entrar em contato pelos links abaixo:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reuel-lanzetti-b92632312/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reuel-Lanzetti)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](LINK_DO_SEU_GITHUB_AQUI)
 
-[![E-mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanzettireuel@gmail.com)
+[![E-mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@exemplo.com)
 
+</div>
 
----
-📍 Bauru, São Paulo
+#
+
+<br>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake.svg">
+</picture>
