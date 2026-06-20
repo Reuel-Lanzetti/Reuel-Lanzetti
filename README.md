@@ -26,11 +26,11 @@ Aqui estão algumas das tecnologias com as quais estou trabalhando:
 ### 🔗 Contato
 Vamos nos conectar? Fique à vontade para entrar em contato pelos links abaixo:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reuel-lanzetti-b92632312/)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](LINK_DO_SEU_GITHUB_AQUI)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reuel-Lanzetti)
 
-[![E-mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@exemplo.com)
+[![E-mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reuellanzetti17@gmail.com)
 
 ---
 📍 Bauru, São Paulo
