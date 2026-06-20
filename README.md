@@ -23,7 +23,6 @@ Vamos nos conectar? Fique à vontade para entrar em contato pelos links abaixo:
 
 [![E-mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanzettireuel@gmail.com)
 
-### 🐍 Jogo da Cobrinha
-![Snake animation](https://github.com/Reuel-Lanzetti/Reuel-Lanzetti/blob/output/github-contribution-grid-snake.svg)
+
 ---
 📍 Bauru, São Paulo
