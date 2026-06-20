@@ -9,10 +9,24 @@
 <div>
   Olá, eu sou o Reuel! 👋 
 
-Sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante.
+Sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. </p>
 
----
+</div>
 
+# 
+
+<div align="center">
+  <h3 align="center" lang="en-US">Skills</h3>
+    <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="40" width="40" alt="powerbi-icon" src="powerbi1.png">
+    <img align="center" height="30" width="40" alt="bandeira-icon" src="bandeira.webp">
+    <img align="center" height="40" width="40" alt="pacote-icon" src="pacote.webp">
+    <img align="center" height="40" width="40" alt="python-icon" src="python.png">
+    <img align="center" height="40" width="40" alt="linux-icon" src="Linux.png">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  
 ### 🛠 Tecnologias e Habilidades
 Aqui estão algumas das tecnologias com as quais estou trabalhando:
 
