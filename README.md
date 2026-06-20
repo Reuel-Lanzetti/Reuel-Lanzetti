@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7CFC00&center=true&vCenter=true&random=false&width=400&lines=Faaaaala+dev,+Matheus+Aqui!!!" alt="Typing SVG"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7CFC00&center=true&vCenter=true&random=false&width=400&lines=Faaaaala+dev,+Reuel+Aqui!!!" alt="Typing SVG"> 
   </a> 
 </div>
 
 #
 
 <div>
-    <p align="center"> Meu nome é Matheus, sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. </p>
+    <p align="center"> Meu nome é Reuel, sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. </p>
 </div>
 
 # 
